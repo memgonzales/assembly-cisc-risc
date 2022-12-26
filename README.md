@@ -2,7 +2,7 @@
 
 ![badge](https://img.shields.io/badge/language-Assembly-blue.svg)
 
-This project is an assortment of programming exercises in assembly, taken from course outputs in an assembly programming class under Mr. Roger Luis T. Uy of the Department of Computer Technology, De La Salle University. 
+This repository is an assortment of programming exercises in assembly, taken from course outputs in an assembly programming class under Mr. Roger Luis T. Uy of the Department of Computer Technology, De La Salle University. 
 
 Representative source codes (with detailed comments) are provided for the following topics:
 - [x86 Assembly Programming](https://github.com/memgonzales/assembly-x86-risc/blob/master/%5Bx86%5D%20Armstrong%20Number.asm)
